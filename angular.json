@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "WebsocketsDemo"
+    }
+  },
+  "defaultProject": "WebsocketsDemo",
+  "cli": {
+    "analytics": "235f6a4b-7fbb-491f-b497-1164ca6dd2c1"
+  }
 }
